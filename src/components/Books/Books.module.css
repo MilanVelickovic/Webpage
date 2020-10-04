@@ -1,0 +1,19 @@
+.Books {
+    padding: 5% 10%;
+    text-align: center;
+    position: relative;
+}
+
+.Books h1 {
+    color: #555555;
+    font-family: 'Montserrat', sans-serifs;
+    text-transform: uppercase;   
+}
+
+.Books .list {
+    margin: 5% 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

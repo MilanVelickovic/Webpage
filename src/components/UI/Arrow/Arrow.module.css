@@ -1,0 +1,42 @@
+.Arrow {
+    background: transparent;
+    font-size: 5em;
+    border: 0px solid #FFF;
+    position: absolute;
+    top: 38%;
+    transition: 0.3s ease-in-out;
+}
+
+.wideLeft {
+    left: 2%;
+}
+
+.wideRight {
+    right: 2%;
+}
+
+.narrowLeft {
+    left: 6%;
+}
+
+.narrowRight {
+    right: 6%;
+}
+
+.white {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.white:hover {
+    color: #FFF;
+    transition: 0.3s ease-in-out;
+}
+
+.gray {
+    color: rgba(76, 76, 76, 0.5);
+}
+
+.gray:hover {
+    color: #4C4C4C;
+    transition: 0.3s ease-in-out;
+}

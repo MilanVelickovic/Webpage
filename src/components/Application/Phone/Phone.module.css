@@ -1,0 +1,36 @@
+.Phone {
+    margin-bottom: 8%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    margin-top: 2%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    border: 0px solid #FFF;
+}
+
+.appleButton {
+    padding: 3% 20%;
+    color: #343434;
+    -webkit-box-shadow: inset 0px 0px 60px -30px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px 0px 60px -30px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 0px 60px -30px rgba(0,0,0,0.75);
+}
+
+.playstoreButton {
+    padding: 4% 20%;
+    color: #FFF;
+    -webkit-box-shadow: inset 0px 0px 64px 45px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px 0px 64px 45px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 0px 64px 45px rgba(0,0,0,0.75);
+}

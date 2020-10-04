@@ -1,0 +1,9 @@
+.Item {
+    color: #545454;
+    font-size: 1em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    border-top: 4px solid rgba(54, 54, 54, 0.6);
+}

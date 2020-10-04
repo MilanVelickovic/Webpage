@@ -1,0 +1,36 @@
+.Application {
+    width: 100%;
+    height: 54vh;
+    padding: 6% 0%;
+    background: url('../../assets/Application/group.png');
+    background-size: cover;
+    border-top: 10px solid rgba(45, 45, 45, 0.2);
+    border-bottom: 10px solid rgba(45, 45, 45, 0.2);
+    display: flex;
+}
+
+.Application .backgroundImage {
+    width: 40%;
+    height: 54vh;
+    padding: 0% 15% 0% 10%;
+    background: linear-gradient(to right, #e45dffbe, rgba(94, 204, 255, 0.7)), url('../../assets/Application/backgroundForPart.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid #FFF;
+    border-left: 0;
+    border-top-right-radius: 180px;
+    border-bottom-right-radius: 180px;
+    box-shadow: 0px 0px 12px rgb(109, 109, 109);
+}
+
+.Application .buttons {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

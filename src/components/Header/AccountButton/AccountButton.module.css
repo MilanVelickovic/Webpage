@@ -1,0 +1,27 @@
+.AccountButtonBackground {
+    padding: 2% 3% 2% 9%;
+    background-image: linear-gradient(to right, #6BA3DF , #915EBF);
+    clip-path: polygon(28% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+
+.AccountButtonBackground .AccountButton {
+    width: 150px;
+    padding: 4% 5%;
+    color: #525252;
+    background-color: #FFF;
+    font-size: 0.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    border: 0px solid #FFF;
+    border-radius: 25px;
+}
+
+.AccountButtonBackground .AccountButton i {
+    padding: 4%;
+    margin-left: 5%;
+    color: #FFF;
+    background-color: #525252;
+    border-radius: 50%;
+}
+

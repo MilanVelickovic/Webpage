@@ -1,0 +1,53 @@
+.Footer {
+    width: 100%;
+    background-image: url('../../assets/Footer/background.png');
+}
+
+.topPart {
+    max-width: 100%;
+    padding: 10% 10% 0% 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.menus {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.creditCards {
+    width: 30%;
+    display: flex;
+    font-size: 1.5em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.cards {
+    width: 80%;
+    padding-top: 8%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cards img {
+    width: 70px;
+    height: 70px;
+}
+
+.bottomPart {
+    width: 100%;
+    height: 8vh;
+    margin-top: 5%;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #e45dffbe, rgba(94, 204, 255, 0.7));
+}

@@ -1,0 +1,24 @@
+.Search {
+    padding: 0.3%;
+    background-color: #FFF;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px rgb(129, 129, 129);
+}
+
+.Search input {
+    padding-left: 5%;
+    font-size: 0.8em;
+    border: 0px solid #FFF;
+    outline: none;
+}
+
+.Search button {
+    padding: 5% 8%;
+    font-size: 0.8em;
+    color: #FFF;  
+    background-color: #373435;
+    border: 0px solid #373435;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 30px;    
+}

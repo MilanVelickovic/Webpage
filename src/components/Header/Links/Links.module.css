@@ -1,0 +1,13 @@
+.Links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.Links .Link {
+    margin-left: 10%;
+    text-transform: uppercase;
+    list-style-type: none;
+}

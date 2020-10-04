@@ -1,0 +1,14 @@
+.Button {
+    width: 20%;
+    margin-bottom: 5%;
+    padding: 1.5% 0%;
+    color: #6B881B;
+    background-color: #C8E850;
+    text-transform: uppercase;
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    border: 2px solid #FFF;
+    border-radius: 25px;
+    box-shadow: 1px 1px 10px rgb(109, 109, 109);
+}
